@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "174981238450",
+    "project_id": "snakegameman",
+    "storage_bucket": "snakegameman.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:174981238450:android:d83500ad5bfd37f4b243ab",
+        "android_client_info": {
+          "package_name": "com.example.snake"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "174981238450-vjbbki9tlt7dq40q460tfflbag9cdfi6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbfMo1rcrWo8fO0FtAKn_fLLv61ktn3Ds"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "174981238450-vjbbki9tlt7dq40q460tfflbag9cdfi6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
